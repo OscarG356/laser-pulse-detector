@@ -2,3 +2,7 @@
 señal/
 espectro/
 Graficas/
+
+# Archivos
+*.xls
+*.xlsx
